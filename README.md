@@ -29,6 +29,11 @@ Infrastructure: Terraform, Kubernetes, Linux
 Development: Python, JavaScript, Node.js, Express, SQL  
 DevOps: GitHub Actions, Git, CI/CD
 
+### Certifications
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- CompTIA Linux+ — Planned November 2026
+
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/collesha-mighty-482b72227/) | [Portfolio](https://collesha.xyz)
